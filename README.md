@@ -28,5 +28,8 @@ Interface9.java   
 LectureCSV.java   fonction main  fait appele aux classes qui contiennent les interfaces (lecteur des interfaces)
 
 
-mode d'utilisation:
 
+#Commentaires et problèmes:
+bouaz hajar==> hajar.bouaz20@gmail.com
+meziane maryem==> maryame.meziane@gmail.com
+koussaimi mohemedamine==>koussaimimohamed8@gmail.com
